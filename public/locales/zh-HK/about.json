@@ -1,27 +1,25 @@
 {
-  "description": "Better ChatGPT 係一款好犀利嘅開源 Web App，佢使用 OpenAI 嘅 ChatGPT API，令到你可以免費同 ChatGPT 傾偈！",
-  "sourceCode": "喺 GitHub 上檢視<0>原始碼</0>同埋畀個 ⭐️ 我哋！",
+  "description": "Nómada Network Chat是一個允許您免費使用OpenAI API的Web應用程序!",
+  "sourceCode": "享受Nómada Network平台 ⭐️",
   "initiative": {
-    "description": "睇下《<0>開放 ChatGPT 倡議</0>》啦！",
-    "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
+    "description": "花一分鐘來了解它的全部潛力吧！"
   },
   "support": {
-    "title": "支持",
-    "paragraph1": "Better ChatGPT 致力於提供實用同驚人嘅特性，你嘅支持同激勵將鼓勵我哋繼續前行！",
-    "paragraph2": "如果你中意呢款 App，我哋請你喺 <0>GitHub</0> 上面畀個 ⭐️。你嘅認可對我哋非同小可，鼓勵我哋更加努力，不斷提供最佳嘅使用體驗。",
-    "paragraph3": "如果你想支持我哋嘅團隊，你可以透過以下方式贊助我哋。每一分貢獻，無論幾細，都幫助我哋維護同埋改善服務。",
-    "paragraph4": "多謝你成為我哋社群嘅一員，我哋期待喺未來提供更好嘅服務畀你。",
-    "alipay": "支付寶",
-    "wechatPay": "微信"
+    "title": "我們的服務包括：",
+    "paragraph1": "Kutt鏈接縮短與分析。使用Kutt，您可以縮短您的鏈接並獲得詳細的分析。我們的橙色代表創造力、自發性和創新，非常適合鏈接縮短工具。",
+    "paragraph2": "ADS Nómada免費分類廣告。我們的分類廣告門戶採用人工智能，幫助您創建引人注目且吸引人的廣告。黃色象徵著在這裡宣傳您的業務時會遇到的樂觀和創造力。",
+    "paragraph3": "Club Nómada，團結就是力量。我們的俱樂部匯集了追求夢想的創業者，並為他們提供實現和改善生活方式所需的所有工具和服務。我們相信社區的力量和團隊合作。",
+    "paragraph4": "Like Link免費數字名片。借助我們定制的數字名片，您可以以現代和專業的方式展示您的業務。我們選擇的紫色結合了藍色的穩定性和紅色的活力，代表了我們數字名片的現代和獨特特點。",
+    "paragraph5": "Club Essens智能購物。我們的購物門戶提供可靠且時尚的產品。我們選擇的綠藍色傳達了綠色的新鮮感和藍色的精緻感，反映了在這裡您會找到智能購物和高品質產品的理念。",
+    "paragraph6": "Meet Nómada，專業的在線會議室。通過我們的在線會議室，您可以隨時隨地與您的受眾連接。具備AI聊天的4k個人在線會議室為您提供了實現業務提升所需的靈活性和便利性。"
   },
   "discordServer": {
-    "title": "Discord 伺服器",
-    "paragraph1": "歡迎加入我哋嘅 Discord 社羣！呢個 Discord 伺服器係一個風水寶地，可以交流 ChatGPT 嘅靈感同埋技巧，並提交 Better ChatGPT 嘅功能建議。你可以同 Better ChatGPT 嘅開發者同埋其他分享你熱情嘅人工智能愛好者傾偈。",
-    "paragraph2": "要加入我哋嘅伺服器，只需要撳呢條 link：<0>https://discord.gg/g3Qnwy4V6A</0>，我哋好想見到你！"
+    "title": "什麼是Nómada Network？",
+    "paragraph1": "Nómada Network是一個創新的平台，匯集了一組旨在幫助您簡化日常任務並促進業務推廣的數字工具。"
   },
   "privacyStatement": {
-    "title": "私隱聲明",
-    "paragraph1": "我哋非常重視你嘅私隱，並致力於保護用家嘅私隱。我哋唔會以任何形式收集或儲存你鍵入或由 OpenAI 伺服器接收嘅任何文字。我哋嘅原始碼可以供你檢查，以驗證呢項聲明。",
-    "paragraph2": "我哋非常重視你嘅 API key 安全，非常小心噉處理佢。如果你用自己嘅 API key，你嘅 key 將專門儲存喺你嘅瀏覽器入面，並且永遠唔會共享畀任何第三方實體。佢僅用於訪問 OpenAI API 呢項預期用途，唔會用於任何其他未經授權嘅用途。"
+    "title": "隱私聲明",
+    "paragraph1": "我們非常重視用戶的隱私，並承諾保護用戶的隱私。我們不會收集或存儲您在任何方式從OpenAI服務器輸入或接收的任何數據。我們的源代碼可供檢驗，以驗證此聲明。",
+    "paragraph2": "我們優先考慮您的API密鑰的安全性，並非常小心地對待它。如果您使用自己的API密鑰，它將僅存儲在您的瀏覽器中，絕不會與任何第三方實體共享。它僅用於專門訪問OpenAI API，而不用於任何其他未經授權的用途。"
   }
 }

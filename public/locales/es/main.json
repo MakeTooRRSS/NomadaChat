@@ -1,4 +1,5 @@
 {
+  "Nomada": "Nomada",
   "save": "Guardar",
   "generate": "Generar",
   "cancel": "Cancelar",
@@ -9,7 +10,7 @@
   "clearConversation": "Limpiar conversación",
   "import": "Importar",
   "export": "Exportar",
-  "author": "Hecho por Jing Hua",
+  "author": "Hecho por MakeToo",
   "about": "Acerca de y Patrocinadores",
   "api": "API",
   "personal": "Personal",

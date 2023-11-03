@@ -1,27 +1,25 @@
 {
-   "description": "Better ChatGPT este o aplicație web uimitoare cu sursă deschisă care vă permite să vă jucați gratuit cu API-ul ChatGPT al OpenAI!",
-   "sourceCode": "Verifică <0>codul sursă</0> pe GitHub și dă-i un ⭐️!",
-   "initiative": {
-     "description": "Verificați <0><i>Inițiativa Deschide ChatGPT</i></0>!",
-     "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
-   },
-   "support": {
-     "title": "Suport",
-     "paragraph1": "La Better ChatGPT, ne străduim să vă oferim funcții utile și uimitoare non-stop. Și, la fel ca orice proiect, sprijinul și motivația dvs. vor fi esențiale pentru a ne ajuta să continuăm înainte!",
-     "paragraph2": "Dacă v-a plăcut să utilizați aplicația noastră, vă rugăm să acordați un ⭐️ acestui <0>proiect</0>. Susținerea dvs. înseamnă foarte mult pentru noi și ne încurajează să muncim mai mult pentru a oferi cea mai bună experiență posibilă. .",
-     "paragraph3": "Dacă doriți să susțineți echipa, luați în considerare să ne sponsorizați prin una dintre metodele de mai jos. Fiecare contribuție, oricât de mică, ne ajută să ne menținem și să îmbunătățim serviciul.",
-     "paragraph4": "Vă mulțumim că faceți parte din comunitatea noastră și așteptăm cu nerăbdare să vă servim mai bine în viitor.",
-     "alipay": "Alipay",
-     "wechatPay": "WeChat Pay"
-   },
-   "discordServer": {
-     "title": "Server Discord",
-     "paragraph1": "Vă invităm să vă alăturați comunității noastre Discord! Serverul nostru Discord este un loc minunat pentru a face schimb de idei și sfaturi ChatGPT și pentru a trimite solicitări de funcții pentru Better ChatGPT. Veți avea ocazia să interacționați cu dezvoltatorii din spatele Better ChatGPT. precum și alți entuziaști AI care vă împărtășesc pasiunea.",
-     "paragraph2": "Pentru a vă alătura serverului nostru, faceți clic pe următorul link: <0>https://discord.gg/g3Qnwy4V6A</0>. Abia așteptăm să ne vedem acolo!"
-   },
-   "privacyStatement": {
-     "title": "Declarație de confidențialitate",
-     "paragraph1": "Apreciem foarte mult confidențialitatea dumneavoastră și ne angajăm să protejăm confidențialitatea utilizatorilor noștri. Nu colectăm și nu stocăm niciun text pe care îl introduceți sau primiți de la serverul OpenAI sub nicio formă. Codul nostru sursă este disponibil pentru inspecția dvs. pentru verificați această afirmație.",
-     "paragraph2": "Prioritatezăm securitatea cheii dvs. API și o gestionăm cu cea mai mare atenție. Dacă utilizați propria cheie API, cheia dvs. este stocată exclusiv în browser și nu este niciodată partajată cu nicio entitate terță parte. Este folosită exclusiv pentru scopul propus de a accesa API-ul OpenAI și nu pentru orice altă utilizare neautorizată."
-   }
+  "description": "Nómada Network Chat este o aplicație web care vă permite să utilizați API-ul OpenAI complet gratuit!",
+  "sourceCode": "Bucurați-vă de platforma Nómada Network ⭐️",
+  "initiative": {
+    "description": "Luați-vă un minut pentru a citi tot potențialul său!"
+  },
+  "support": {
+    "title": "Serviciile noastre includ:",
+    "paragraph1": "Kutt, scurtător de link-uri cu analiză. Cu Kutt, puteți scurta link-urile și obține analize detaliate. Culoarea noastră portocalie reprezintă creativitatea, spontaneitatea și inovația, ceea ce este potrivit pentru un scurtător de link-uri.",
+    "paragraph2": "ADS Nómada, anunțuri gratuite clasificate. Platforma noastră de anunțuri gratuite utilizează inteligența artificială pentru a vă ajuta să creați anunțuri atrăgătoare și captivante. Culoarea galbenă simbolizează optimismul și creativitatea pe care le veți găsi atunci când vă promovați afacerea aici.",
+    "paragraph3": "Club Nómada, uniunea face puterea. Clubul nostru adună antreprenorii care urmăresc să-și îndeplinească visele și le oferă toate instrumentele și serviciile de care au nevoie pentru a-și atinge și îmbunătăți stilul de viață. Noi credem în puterea comunității și a lucrului în echipă.",
+    "paragraph4": "Like Link, carduri digitale gratuite. Cu cardurile noastre digitale personalizate, veți prezenta afacerea într-un mod modern și profesional. Culoarea mov pe care am ales-o combină stabilitatea albastrului și energia roșului, reprezentând abordarea modernă și distinctivă a cardurilor noastre digitale.",
+    "paragraph5": "Club Essens, cumpărături inteligente. Platforma noastră de cumpărături vă oferă produse de încredere și elegante. Culoarea verde-albăstrui pe care am selectat-o transmite prospețimea verde și sofisticarea albastrului, reflectând ideea că aici veți găsi cumpărături inteligente și produse de calitate.",
+    "paragraph6": "Meet Nómada, săli de conferințe profesionale. Cu sălile noastre de conferințe online, vă puteți conecta la audiența dvs. de oriunde și oricând. Sala de Conferințe Online Personală în 4k cu Chat IA vă oferă flexibilitatea și comoditatea de care aveți nevoie pentru a duce afacerea la nivelul următor."
+  },
+  "discordServer": {
+    "title": "Ce este Nómada Network?",
+    "paragraph1": "Nómada Network este o platformă inovatoare care adună un set de instrumente digitale concepute pentru a vă ajuta, pentru a vă simplifica sarcinile zilnice și pentru a vă promova afacerea."
+  },
+  "privacyStatement": {
+    "title": "Declarație de confidențialitate",
+    "paragraph1": "Acordăm o importanță deosebită confidențialității dvs. și ne angajăm să protejăm confidențialitatea utilizatorilor noștri. Nu colectăm sau stocăm niciun fel de date pe care le introduceți sau le primiți de la serverul OpenAI în niciun fel. Codul nostru sursă este disponibil pentru inspecție pentru a verifica această declarație.",
+    "paragraph2": "Acordăm prioritate securității cheii API și o tratăm cu cea mai mare grijă. Dacă utilizați propria cheie API, aceasta este stocată exclusiv în browserul dvs. și nu este niciodată partajată cu vreo entitate terță. Este utilizată exclusiv în scopul de a accesa API-ul OpenAI și nu în alte scopuri neautorizate."
+  }
 }

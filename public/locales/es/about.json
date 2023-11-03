@@ -1,23 +1,21 @@
 {
-  "description": "¡Better ChatGPT es una aplicación web de código abierto que te permite usar la API de OpenAI totalmente gratis!",
-  "sourceCode": "Comprueba el <0>código fuente</0> en GitHub y dale una ⭐️",
+  "description": "¡Nómada Network Chat es una aplicación web que te permite usar la API de OpenAI totalmente gratis!",
+  "sourceCode": "Disfruta de la plataforma Nómada Network ⭐️",
   "initiative": {
-    "description": "¡Tómate un minuto para leer <0><i>La iniciativa de Open ChatGPT</i></0> (inglés)!",
-    "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
+    "description": "¡Tómate un minuto para leer todo su potencial!"
   },
   "support": {
-    "title": "Apoya el proyecto",
-    "paragraph1": "Aquí, en Better ChatGPT, nos esforzamos mucho para brindarte mejoras y nuevas funcionalidades lo antes posible. Y, al igual que en todos los proyectos, ¡tu apoyo y motivación mantiene a Better ChatGPT vivo!",
-    "paragraph2": "Si disfrutas usando nuestra aplicación, te pedimos por favor que des una ⭐️ a este <0>proyecto</0>. Tu apoyo significa mucho para nosotros y nos ayuda a trabajar lo máximo posible para ofrecerte las mejores experencias posibles.",
-    "paragraph3": "Si deseas apoyar al equipo, considera patrocinarnos mediante alguno de los métodos a continuación. Toda contribución, aunque sea pequeña, nos ayuda a mantener y mejorar el servicio.",
-    "paragraph4": "Gracias por ser parte de nuestra comunidad. Estamos deseando servirte de la mejor manera posible en el futuro.",
-    "alipay": "Alipay",
-    "wechatPay": "WeChat"
+    "title": "Nuestros servicios incluyen:",
+    "paragraph1": "Kutt Acortador de enlaces con análisis. Con Kutt, puedes acortar tus enlaces y obtener análisis detallados. Nuestro color naranja representa la creatividad, la espontaneidad y la innovación, lo cual es apropiado para un acortador de enlaces.",
+    "paragraph2": "ADS Nómada anuncios clasificados GRATIS. Nuestro portal de anuncios clasificados utiliza inteligencia artificial para ayudarte a crear anuncios llamativos y atractivos. El color amarillo simboliza el optimismo y la creatividad que encontrarás al promocionar tu negocio aquí.",
+    "paragraph3": "Club Nómada, la unión hace la fuerza. Nuestro Club reúne a emprendedores que persiguen sus sueños y les brinda todas las herramientas y servicios que necesitan para alcanzar y mejorar su estilo de vida. Creemos en la fuerza de la comunidad y el trabajo en equipo.",
+    "paragraph4": "Like Link Tarjetas Digitales GRATIS. Con nuestras tarjetas digitales personalizadas, presentarás tu negocio de manera moderna y profesional. El morado que hemos elegido combina la estabilidad del azul y la energía del rojo, representando el enfoque moderno y distintivo de nuestras tarjetas digitales.",
+    "paragraph5": "Club Essens compras inteligentes. Nuestro portal de compras te ofrece productos confiables y elegantes. El verde azulado que hemos seleccionado transmite la frescura del verde y la sofisticación del azul, lo que refleja la idea de que aquí encontrarás compras inteligentes y productos de calidad.",
+    "paragraph6": "Meet Nómada, salas de conferencias profesionales. Con nuestras salas de conferencias en línea, puedes conectarte con tu audiencia desde cualquier lugar y en cualquier momento. La Sala de Conferencias Online Personal en 4k con Chat IA te brinda la flexibilidad y la conveniencia que necesitas para llevar tu negocio al siguiente nivel."
   },
   "discordServer": {
-    "title": "Servidor de Discord",
-    "paragraph1": "¡Te invitamos a unirte a nuestra comunidad de Discord! Nuestro servidor de Discord es genial para intercambiar temas relacionados con ChatGPT, como ideas y consejos, y solicitar nuevas funcionalidades para Better ChatGPT. También tendrás la oportunidad de hablar con los desarrolladores así como otros entusiastas de la IA.",
-    "paragraph2": "Para unirte al servidor, pulsa sobre el siguiente enlace: <0>https://discord.gg/g3Qnwy4V6A</0>. ¡Te esperamos!"
+    "title": "¿Qué es Nómada Network?",
+    "paragraph1": "Nómada Network es una plataforma innovadora que reúne un conjunto de herramientas digitales diseñadas para ayudarte, simplificar tus tareas diarias y potenciar la promoción de tu negocio."
   },
   "privacyStatement": {
     "title": "Declaración de privacidad",

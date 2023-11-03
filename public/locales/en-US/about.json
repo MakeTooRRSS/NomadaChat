@@ -1,27 +1,25 @@
 {
-  "description": "Better ChatGPT is an amazing open-source web app that allows you to play with OpenAI's ChatGPT API for free!",
-  "sourceCode": "Checkout the <0>source code</0> on GitHub and give it a ⭐️!",
+  "description": "Nómada Network Chat is a web application that allows you to use the OpenAI API completely for free!",
+  "sourceCode": "Enjoy the Nómada Network platform ⭐️",
   "initiative": {
-    "description": "Checkout the <0><i>Open ChatGPT Initiative</i></0>!",
-    "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
+    "description": "Take a minute to explore its full potential!"
   },
   "support": {
-    "title": "Support",
-    "paragraph1": "At Better ChatGPT, we strive to provide you with useful and amazing features around the clock. And just like any project, your support and motivation will be instrumental in helping us keep moving forward!",
-    "paragraph2": "If you have enjoyed using our app, we kindly ask you to give this <0>project</0> a ⭐️. Your endorsement means a lot to us and encourages us to work harder towards delivering the best possible experience.",
-    "paragraph3": "If you would like to support the team, consider sponsoring us through one of the methods below. Every contribution, no matter how small, helps us to maintain and improve our service.",
-    "paragraph4": "Thank you for being a part of our community, and we look forward to serving you better in the future.",
-    "alipay": "Alipay",
-    "wechatPay": "WeChat"
+    "title": "Our services include:",
+    "paragraph1": "Kutt Link Shortener with Analysis. With Kutt, you can shorten your links and get detailed analytics. Our orange color represents creativity, spontaneity, and innovation, which is appropriate for a link shortener.",
+    "paragraph2": "ADS Nómada Free Classified Ads. Our classified ads portal uses artificial intelligence to help you create eye-catching and attractive ads. The yellow color symbolizes the optimism and creativity you'll find when promoting your business here.",
+    "paragraph3": "Club Nómada, unity is strength. Our Club brings together entrepreneurs who pursue their dreams and provides them with all the tools and services they need to achieve and improve their lifestyle. We believe in the strength of community and teamwork.",
+    "paragraph4": "Like Link Free Digital Business Cards. With our personalized digital cards, you will present your business in a modern and professional way. The purple color we have chosen combines the stability of blue and the energy of red, representing the modern and distinctive focus of our digital cards.",
+    "paragraph5": "Club Essens Smart Shopping. Our shopping portal offers reliable and elegant products. The teal green color we have selected conveys the freshness of green and the sophistication of blue, reflecting the idea that here you will find smart shopping and quality products.",
+    "paragraph6": "Meet Nómada, professional conference rooms. With our online conference rooms, you can connect with your audience from anywhere and at any time. The Personal 4K Online Conference Room with AI Chat provides you with the flexibility and convenience you need to take your business to the next level."
   },
   "discordServer": {
-    "title": "Discord Server",
-    "paragraph1": "We invite you to join our Discord community! Our Discord server is a great place to exchange ChatGPT ideas and tips, and submit feature requests for Better ChatGPT. You'll have the opportunity to interact with the developers behind Better ChatGPT as well as other AI enthusiasts who share your passion.",
-    "paragraph2": "To join our server, simply click on the following link: <0>https://discord.gg/g3Qnwy4V6A</0>. We can't wait to see you there!"
+    "title": "What is Nómada Network?",
+    "paragraph1": "Nómada Network is an innovative platform that brings together a set of digital tools designed to help you, simplify your daily tasks, and enhance the promotion of your business."
   },
   "privacyStatement": {
     "title": "Privacy Statement",
-    "paragraph1": "We highly value your privacy and are committed to safeguarding the privacy of our users. We do not collect or store any text you enter or receive from the OpenAI server in any form. Our source code is available for your inspection to verify this statement.",
-    "paragraph2": "We prioritize the security of your API key and handle it with utmost care. If you use your own API key, your key is exclusively stored on your browser and never shared with any third-party entity. It is solely used for the intended purpose of accessing the OpenAI API and not for any other unauthorized use."
+    "paragraph1": "We highly value your privacy and are committed to protecting the privacy of our users. We do not collect or store any data you enter or receive from the OpenAI server in any way. Our source code is available for inspection to verify this statement.",
+    "paragraph2": "We prioritize the security of your API key and treat it with the utmost care. If you use your own API key, it is stored exclusively in your browser and is never shared with any third-party entities. It is used solely for the exclusive purpose of accessing the OpenAI API and not for any other unauthorized use."
   }
 }

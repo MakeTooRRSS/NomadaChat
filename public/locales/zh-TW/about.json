@@ -1,23 +1,21 @@
 {
-  "description": "Better ChatGPT 是一個神奇的開源 Web 應用程式，允許您免費使用 OpenAI 的 ChatGPT API 進行對話！",
-  "sourceCode": "在 GitHub 上檢視<0>原始碼</0>並給它一個⭐️！",
+  "description": "Nómada Network Chat是一個允許您免費使用OpenAI API的Web應用程序!",
+  "sourceCode": "享受Nómada Network平台 ⭐️",
   "initiative": {
-    "description": "看看《<0>開放 ChatGPT 倡議</0>》吧！",
-    "link": "https://medium.com/@ayaka_90553/%E5%BC%80%E6%94%BE-chatgpt-%E5%80%A1%E8%AE%AE-eaac01243dae"
+    "description": "請花一分鐘的時間閱讀其全部潛力！"
   },
   "support": {
-    "title": "支持",
-    "paragraph1": "在 Better ChatGPT，我們致力於為您提供實用和驚人的功能。就像任何專案一樣，您的支持和激勵將對我們在保持前進方面起到至關重要的作用！",
-    "paragraph2": "如果您喜歡使用我們的應用程式，我們懇請您給這個<0>專案</0>一個⭐️。您的認可對我們意義重大，鼓勵我們更加努力，以提供最佳的體驗。",
-    "paragraph3": "如果您想支持我們的團隊，請考慮透過以下方法之一讚助我們。每一份貢獻，無論多小，都有助於我們維護和改善我們的服務。",
-    "paragraph4": "感謝您成為我們社群的一員，我們期待在未來為您提供更好的服務。",
-    "alipay": "支付寶",
-    "wechatPay": "微信"
+    "title": "我們的服務包括：",
+    "paragraph1": "Kutt鏈接縮短與分析。使用Kutt，您可以縮短您的鏈接並獲得詳細的分析。我們的橙色代表創造力、自發性和創新，這非常適合鏈接縮短工具。",
+    "paragraph2": "ADS Nómada免費分類廣告。我們的分類廣告門戶採用人工智能，以幫助您創建引人注目且吸引人的廣告。黃色象徵著在這裡宣傳您的業務時會遇到的樂觀和創造力。",
+    "paragraph3": "Club Nómada，團結力量大。我們的俱樂部匯集了追求夢想的企業家，並為他們提供達成和改善生活方式所需的所有工具和服務。我們相信社區的力量和團隊合作。",
+    "paragraph4": "Like Link免費數字名片。使用我們的定制數字名片，您可以以現代和專業的方式展示您的業務。我們選擇的紫色結合了藍色的穩定性和紅色的活力，代表了我們數字名片的現代和獨特特點。",
+    "paragraph5": "Club Essens智能購物。我們的購物門戶提供可靠且時尚的產品。我們選擇的綠松石色傳達了綠色的新鮮感和藍色的精緻感，反映了在這裡您將找到智能購物和高品質產品的理念。",
+    "paragraph6": "Meet Nómada，專業的線上會議室。通過我們的線上會議室，您可以隨時隨地與您的聽眾連接。具備Chat IA的4K個人線上會議室為您提供了實現業務提升所需的靈活性和便利性。"
   },
   "discordServer": {
-    "title": "Discord 伺服器",
-    "paragraph1": "我們邀請您加入我們的 Discord 社群！我們的 Discord 伺服器是一個風水寶地，可以交流 ChatGPT 的想法和技巧，並提交 Better ChatGPT 的功能請求。您將有機會與 Better ChatGPT 的開發人員以及其他分享您熱情的人工智慧愛好者互動。",
-    "paragraph2": "要加入我們的伺服器，只需點選以下連結：<0>https://discord.gg/g3Qnwy4V6A</0>。我們迫不及待地想見到您！"
+    "title": "什麼是Nómada Network？",
+    "paragraph1": "Nómada Network是一個創新的平台，匯集了一系列數字工具，旨在幫助您簡化日常任務並推動業務宣傳。"
   },
   "privacyStatement": {
     "title": "隱私宣告",

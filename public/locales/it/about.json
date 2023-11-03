@@ -1,27 +1,25 @@
 {
-  "description": "Better ChatGPT è un'incredibile applicazione web open-source che permette di giocare con l'API ChatGPT di OpenAI gratuitamente!",
-  "sourceCode": "Scopri il <0>codice sorgente</0> su GitHub e dai una ⭐️!",
+  "description": "Nómada Network Chat è un'applicazione web che ti consente di utilizzare gratuitamente l'API di OpenAI!",
+  "sourceCode": "Goditi la piattaforma Nómada Network ⭐️",
   "initiative": {
-    "description": "Scopri l'iniziativa <0><i>Open ChatGPT</i></0>!",
-    "link": "https://medium.com/@ayaka_45434/the-open-chatgpt-initiative-e76b0b62a3ae"
+    "description": "Prenditi un minuto per scoprire tutto il suo potenziale!"
   },
   "support": {
-    "title": "Supporto",
-    "paragraph1": "Noi di Better ChatGPT ci sforziamo di fornirvi funzioni utili e sorprendenti 24 ore su 24. E proprio come ogni progetto, il tuo supporto e la tua motivazione ci aiuteranno a continuare a progredire. E proprio come in ogni progetto, il tuo supporto e la tua motivazione saranno fondamentali per aiutarci ad andare avanti!",
-    "paragraph2": "Se ti sei trovato bene con la nostra app, ti chiediamo gentilmente di dare una ⭐️ a questo <0>progetto</0>. La tua approvazione significa molto per noi e ci incoraggia a lavorare sempre di più per offrire la migliore esperienza possibile.",
-    "paragraph3": "Se desideri sostenere il team, prendi in considerazione la possibilità di sponsorizzarci attraverso uno dei metodi indicati di seguito. Ogni contributo, per quanto piccolo, ci aiuta a mantenere e migliorare il nostro servizio.",
-    "paragraph4": "Ti ringraziamo di far parte della nostra community e ci auguriamo di poterti servire meglio in futuro.",
-    "alipay": "Alipay",
-    "wechatPay": "WeChat"
+    "title": "I nostri servizi includono:",
+    "paragraph1": "Kutt Riduttore di link con analisi. Con Kutt, puoi abbreviare i tuoi link e ottenere analisi dettagliate. Il nostro colore arancione rappresenta la creatività, la spontaneità e l'innovazione, il che è appropriato per un abbreviatore di link.",
+    "paragraph2": "ADS Nómada annunci classificati GRATUITI. Il nostro portale di annunci classificati utilizza l'intelligenza artificiale per aiutarti a creare annunci accattivanti e attraenti. Il colore giallo simboleggia l'ottimismo e la creatività che troverai promuovendo la tua attività qui.",
+    "paragraph3": "Club Nómada, l'unione fa la forza. Il nostro Club riunisce imprenditori che perseguono i loro sogni e offre loro tutti gli strumenti e i servizi di cui hanno bisogno per raggiungere e migliorare il loro stile di vita. Crediamo nella forza della comunità e del lavoro di squadra.",
+    "paragraph4": "Like Link Carte di visita digitali GRATUITE. Con le nostre carte di visita digitali personalizzate, presenterai la tua attività in modo moderno e professionale. Il viola che abbiamo scelto combina la stabilità del blu e l'energia del rosso, rappresentando l'approccio moderno e distintivo delle nostre carte digitali.",
+    "paragraph5": "Club Essens acquisti intelligenti. Il nostro portale di acquisti offre prodotti affidabili ed eleganti. Il verde turchese che abbiamo selezionato trasmette la freschezza del verde e la sofisticazione del blu, riflettendo l'idea che qui troverai acquisti intelligenti e prodotti di qualità.",
+    "paragraph6": "Meet Nómada, sale conferenze professionali. Con le nostre sale conferenze online, puoi connetterti con il tuo pubblico da qualsiasi luogo e in qualsiasi momento. La Sala Conferenze Online Personale in 4K con Chat IA ti offre la flessibilità e la comodità di cui hai bisogno per portare avanti la tua attività al livello successivo."
   },
   "discordServer": {
-    "title": "Discord Server",
-    "paragraph1": "Ti invitiamo ad unirti alla nostra community Discord! Il nostro server Discord è un luogo ideale per scambiare idee e suggerimenti su ChatGPT e per inviare richieste di funzionalità per Better ChatGPT. Avrai l'opportunità di interagire con gli sviluppatori di Better ChatGPT e con altri appassionati di IA che condividono la tua stessa passione.",
-    "paragraph2": "Per unirsi al nostro server, basta cliccare sul seguente link: <0>https://discord.gg/g3Qnwy4V6A</0>. Non vediamo l'ora di vederti lì!"
+    "title": "Cos'è Nómada Network?",
+    "paragraph1": "Nómada Network è una piattaforma innovativa che raccoglie un insieme di strumenti digitali progettati per aiutarti, semplificare le tue attività quotidiane e potenziare la promozione della tua attività."
   },
   "privacyStatement": {
     "title": "Informativa sulla privacy",
-    "paragraph1": "Ci teniamo molto alla tua privacy e ci impegniamo a salvaguardare quella dei nostri utenti. Non raccogliamo né memorizziamo alcun testo immesso o ricevuto dal server OpenAI in alcuna forma. Il nostro codice sorgente è disponibile per la verifica di questa dichiarazione.",
-    "paragraph2": "Diamo priorità alla sicurezza della tua chiave API e la gestiamo con la massima cura. Se si utilizza la propria chiave API, questa viene memorizzata esclusivamente sul browser dell'utente e non viene mai condivisa con alcuna entità terza. Viene utilizzata esclusivamente per lo scopo previsto di accedere all'API OpenAI e non per altri usi non autorizzati."
+    "paragraph1": "Diamo grande importanza alla tua privacy e ci impegniamo a proteggere la privacy dei nostri utenti. Non raccogliamo né conserviamo alcun dato che inserisci o ricevi dal server OpenAI in alcun modo. Il nostro codice sorgente è disponibile per l'ispezione al fine di verificare questa dichiarazione.",
+    "paragraph2": "Diamo priorità alla sicurezza della tua chiave API e la trattiamo con la massima cura. Se utilizzi la tua chiave API personale, essa viene conservata esclusivamente nel tuo browser e non viene mai condivisa con terze parti. Viene utilizzata esclusivamente per accedere all'API di OpenAI e non per altri utilizzi non autorizzati."
   }
 }
